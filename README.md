@@ -1,3 +1,5 @@
+###This works only on Oprnshift Console V2 (Legacy)
+
 openshift-craftbukkit-quickstart
 ================================
 
